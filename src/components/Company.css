@@ -1,0 +1,55 @@
+.Contract-button{
+background-color: #969191; color: black;; /* Green */
+border: 2px;
+color: rgb(0, 0, 0);
+padding: 5px;
+text-align: center;
+font-size: 25px; 
+margin: 0;
+position: left;
+border-radius: 5px;
+}
+
+.update-button{
+    background-color: #969191; color: black;; /* Green */
+border: 2px;
+color: rgb(0, 0, 0);
+padding: 5px;
+text-align: center;
+font-size: 25px; 
+margin: 0;
+position: left;
+border-radius: 5px;
+}
+
+.companies{
+    width: 750px;
+    padding: auto;
+    margin: 5px;
+    text-align: center;
+    line-height: 1.5;
+    border: 10px solid rgb(105, 105, 105);
+
+}
+
+.company-form {
+    width: 800px;
+    padding: 10px;
+    margin: 20px;
+    text-align: center;
+    line-height: 1.5;
+    border: 10px solid rgb(105, 105, 105);
+    display: inline-block;
+    }
+  
+  input {
+    width: 75%; 
+    padding: 12px; 
+    border: 1px solid #ccc; 
+    border-radius: 4px; 
+    box-sizing: border-box; 
+    margin-top: 6px; 
+    text-align: center;
+    margin-bottom: 16px; 
+    resize: vertical 
+  }
